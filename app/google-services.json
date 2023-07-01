@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "939984925307",
+    "project_id": "todolist-juan-cassius",
+    "storage_bucket": "todolist-juan-cassius.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939984925307:android:bda445f1c935d9f7e568de",
+        "android_client_info": {
+          "package_name": "com.juancassius.todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939984925307-t1lit2q6q03gjprdbfhdbf03dipbahom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4I0aumf-7r6hqpMosXwpAUfNDMv6SiSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939984925307-t1lit2q6q03gjprdbfhdbf03dipbahom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
